@@ -52,7 +52,9 @@ Contents
    source/user-guide/building-a-survey.rst
    source/user-guide/collecting-data.rst
    source/user-guide/processing-data.rst
+   source/user-guide/navigating-the-app.rst
    source/user-guide/faqs.rst
+
 
 .. toctree::
    :maxdepth: 2

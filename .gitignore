@@ -1,3 +1,4 @@
 _build/
 env/
 copy_diagrams.sh
+*.DS_Store
