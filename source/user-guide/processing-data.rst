@@ -115,7 +115,7 @@ below with examples:
 
 
 2. Checking Prices, Calories, and Other Units
-#######################################
+#######################################################
 
 There are certain conversion factors 
 that we can only identify after making 
@@ -134,62 +134,67 @@ In this step
      - Example Conversion 
 
    * - milk_calories 
-     - Calories per litre for milk from each animal identified in the survey
+     - Calories per litre for milk from each type of livestock identified in the survey
      - cattle 
      - 597 
 
    * - meat_calories 
-     - 
+     - Calories per kilogram of meat from different livestock
      -  
      -  
 
    * - crop_calories 
-     - 
+     - Calories per kg of crop for different crops
      -  
      -  
 
    * - eggs_calories 
-     - 
+     - Calories per kg of egg from different livestock
      -  
      -  
 
    * - honey_calories 
-     - 
+     - Calories per litre of honey
      -  
      -  
 
    * - mean_milk_price_per_litre 
-     - 
+     - Average price of milk for the whole survey (in lcu/litre) for different types of livestock
      -  
      -  
 
    * - mean_meat_price_per_kg 
-     - 
+     - Average price of meat for the whole survey (in lcu/kg) for different types of livestock
      -  
      -  
 
    * - mean_livestock_price_per_animal 
-     - 
+     - Average price of whole livestock for the whole survey (in lcu/head) for different types of livestock
      -  
      -  
 
    * - mean_eggs_price_per_kg 
-     - 
+     - Average price of eggs for the whole survey (in lcu/kg) for different types of livestock
      -  
      -  
 
    * - mean_crop_price_per_lcu_per_kg 
-     - 
+     - Average price of crops for the whole survey (in lcu/kg) for different types of crop
      -  
      -  
 
    * - mean_bees_honey_price_per_kg 
-     - 
+     - Average price of honey for the whole survey (lcu/litre)
      -  
      -  
 
    * - livestock_count_to_tlu 
+     - Conversion of different types of livestock to Tropical Livestock Units (TLU).
+     -  
      - 
+
+   * - livestock_weight_to_kg 
+     - Conversion of different types of livestock to average yield of meat when butchered.
      -  
      -  
 
