@@ -140,63 +140,63 @@ In this step
 
    * - meat_calories 
      - Calories per kilogram of meat from different livestock
-     -  
-     -  
+     -  cattle 
+     -  2197
 
    * - crop_calories 
      - Calories per kg of crop for different crops
-     -  
-     -  
+     -  maize
+     -  3650
 
    * - eggs_calories 
      - Calories per kg of egg from different livestock
-     -  
-     -  
+     - chicken
+     - 1550
 
    * - honey_calories 
      - Calories per litre of honey
-     -  
-     -  
+     - bees
+     - 3040
 
    * - mean_milk_price_per_litre 
      - Average price of milk for the whole survey (in lcu/litre) for different types of livestock
-     -  
-     -  
+     - cattle
+     - 1.50
 
    * - mean_meat_price_per_kg 
      - Average price of meat for the whole survey (in lcu/kg) for different types of livestock
-     -  
-     -  
+     - pigs
+     - 8
 
    * - mean_livestock_price_per_animal 
      - Average price of whole livestock for the whole survey (in lcu/head) for different types of livestock
-     -  
-     -  
+     - sheep
+     - 250
 
    * - mean_eggs_price_per_kg 
      - Average price of eggs for the whole survey (in lcu/kg) for different types of livestock
-     -  
-     -  
+     - otherpoultry
+     - 4
 
    * - mean_crop_price_per_lcu_per_kg 
      - Average price of crops for the whole survey (in lcu/kg) for different types of crop
-     -  
-     -  
+     - maize
+     - 1.20
 
    * - mean_bees_honey_price_per_kg 
      - Average price of honey for the whole survey (lcu/litre)
-     -  
-     -  
+     - bees
+     - 4.50
 
    * - livestock_count_to_tlu 
      - Conversion of different types of livestock to Tropical Livestock Units (TLU).
-     -  
-     - 
+     - cattle
+     - 0.7
 
    * - livestock_weight_to_kg 
      - Conversion of different types of livestock to average yield of meat when butchered.
-     -  
-     -  
+     - oxen
+     - 250 
 
 
 .. note::
