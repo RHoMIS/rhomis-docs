@@ -69,5 +69,7 @@ For more information on data collection, please see
 User Management
 #######################################
 
-To control who has access 
+To control who has access click the 
+:ref:`form management <form overview>`
+section. 
 
