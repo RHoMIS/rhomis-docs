@@ -33,6 +33,12 @@ the main RHoMIS application will look like this:
 You can click on any of the panels in the centre. 
 
 1. Build a Survey: Go to the RHoMIS survey builder and begin designing a survey (more guidance :ref:`here <survey builder>`)
-2. Global Dataset: Visit out page on the `Harvard Dataverse`_
-3. Help: Visit this documentation for more guidance.
+2. Help: Visit this documentation for more guidance.
+
+.. note::
+
+    This quickstart is for first-time users. 
+    If you have made a survey before, you will have a few more options
+    here.
+
 

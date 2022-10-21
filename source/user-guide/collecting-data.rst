@@ -42,17 +42,20 @@ Draft Forms
 --------------------------------------
 
 It is useful to fill in data on draft forms to see
-how the survey flows, and to make sure that data 
-processing won't cause any errors. When you arrive
+how the survey flows. When you arrive
 at "Collect Data" page, you can scan the QR code in the 
 ODK collect app and start collecting data. 
 
-If you want to to see what the data might look like,
-you can also click the "generate data" button. This 
-will generate random responses to show you the format 
-of the data. This is also useful to practice 
-:ref:`processing data <processing_data>`.
+.. warning::
+    
+    Data collected when your form is 
+    in "draft mode" will not be kept.
+    If you plan to collect data which 
+    you hope to keep, finalize your form.
 
+    Don't worry, you can always change 
+    the form after it is finalized
+    by creating a new draft. 
 
 Finalized Forms
 --------------------------------------

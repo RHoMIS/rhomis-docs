@@ -114,14 +114,101 @@ below with examples:
 
 
 
-2. Checking Prices and Calories
+2. Checking Prices, Calories, and Other Units
 #######################################
 
-Price verification is show in the video above. 
-The main points to note are prices **prices for
-products** (e.g. crops, meat, milk) must be in 
-local currency units (LCU) per kg or per litre. 
-Price for whole livestock must be in LCU per animal.
+There are certain conversion factors 
+that we can only identify after making 
+some initial calculations (see stage above).
+
+In this step 
+
+
+.. list-table:: 
+   :widths: 25 50 25 25
+   :header-rows: 1
+
+   * - Unit type 
+     - Description
+     - Example Survey Value 
+     - Example Conversion 
+
+   * - milk_calories 
+     - Calories per litre for milk from each animal identified in the survey
+     - cattle 
+     - 597 
+
+   * - meat_calories 
+     - 
+     -  
+     -  
+
+   * - crop_calories 
+     - 
+     -  
+     -  
+
+   * - eggs_calories 
+     - 
+     -  
+     -  
+
+   * - honey_calories 
+     - 
+     -  
+     -  
+
+   * - mean_milk_price_per_litre 
+     - 
+     -  
+     -  
+
+   * - mean_meat_price_per_kg 
+     - 
+     -  
+     -  
+
+   * - mean_livestock_price_per_animal 
+     - 
+     -  
+     -  
+
+   * - mean_eggs_price_per_kg 
+     - 
+     -  
+     -  
+
+   * - mean_crop_price_per_lcu_per_kg 
+     - 
+     -  
+     -  
+
+   * - mean_bees_honey_price_per_kg 
+     - 
+     -  
+     -  
+
+   * - livestock_count_to_tlu 
+     - 
+     -  
+     -  
+
+
+.. note::
+    Staple crop is slightly
+    different to the other 
+    conversion tables. You
+    only need to provide one 
+    value.
+
+    It is important to think 
+    about what is the "staple crop"
+    for respondents in your survey,
+    as this will be used to estimate
+    the potential calories that a household
+    could purchase with their income.
+
+
 
 
 
