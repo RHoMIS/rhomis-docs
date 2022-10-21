@@ -5,4 +5,4 @@
 
 .. _Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9M6EHS
 
-.. _Issues: https://github.com/l-gorman/rhomis-support/issues
+.. _Issues: https://github.com/RHoMIS/rhomis-support/issues/new/choose

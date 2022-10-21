@@ -20,8 +20,8 @@ import os
 # -- Project information -----------------------------------------------------
 
 project = 'RHoMIS'
-copyright = '2021, Léo Gorman'
-author = 'Léo Gorman'
+copyright = '2021, RHoMIS'
+author = 'RHoMIS'
 
 
 # -- General configuration ---------------------------------------------------

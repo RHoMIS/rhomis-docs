@@ -9,7 +9,8 @@ Project Management
 #######################################
 
 The project management page allows you to view
-your existing projects. You can select a project
+your existing projects. You can select a project,
+or you can create a new project.
 
 .. image:: ../images/project-management.png
 
