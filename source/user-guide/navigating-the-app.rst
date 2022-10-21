@@ -70,6 +70,20 @@ User Management
 #######################################
 
 To control who has access click the 
+"user management" option, shown in 
+the 
 :ref:`form management <form overview>`
 section. 
+
+This will take you to the following page:
+
+.. image:: ../images/user-management.png
+
+You will only be able to control user priveleges
+if you are a "project manager". A user is automatically
+given "project manager" priveleges when the create 
+a form/project. A project manager can add other 
+project managers. A data collector can only collect data.
+A data analyst can only access data.
+
 
