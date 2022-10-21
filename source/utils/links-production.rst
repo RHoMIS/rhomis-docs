@@ -2,6 +2,6 @@
 
 .. _RHoMIS Scientific Output: https://www.rhomis.org/science-output.html/
 
-.. _Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9M6EHS
+.. _Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TFXQJN
 
 .. _Issues: https://github.com/RHoMIS/rhomis-support/issues/new/choose
